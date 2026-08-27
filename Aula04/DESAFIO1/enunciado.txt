@@ -1,0 +1,11 @@
+==============================================================================
+Considere a sequência de Fibonacci definida por:
+f1 = 1
+f2 = 1
+fn = fn-1 + fn-2 (n ≥ 3)
+Dados dois números inteiros positivos (a e b), implemente um programa
+em C que calcule quantos números Fibonacci estão contidos no intervalo
+[a, b]. Por exemplo, com a sequência de Fibonacci 1, 1, 2, 3, 5, 8, 13, 21,
+34, 55, 89, 144, 233, 377, 610..., a = 10 e b = 100, a saída do algoritmo
+deve ser 5, que contabiliza os valores 13, 21, 34, 55 e 89
+==============================================================================

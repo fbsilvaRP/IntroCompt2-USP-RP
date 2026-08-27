@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#define tam 6
+
+int main(int argc, char* argv[])
+{
+	int *vetor;
+	vetor = malloc(tam * sizeof(int));
+	printf("Preenchendo o vetor: \n");
+	for(int i = 0; i < tam; i++)
+	{
+		int valor;
+		printf("[%d]: ", i);
+		scanf("%d%*c", valor);
+		*(p + i) = valor;
+	}
+	printf("Vetor preenchido: \n");
+	for(int i = 0; i < tam; i++)
+		printf("[%d], ", *(vetor + i)); 
+
+	printf("Pressione Enter para encerrar...\n");
+	getchar();
+	return 0;
+}

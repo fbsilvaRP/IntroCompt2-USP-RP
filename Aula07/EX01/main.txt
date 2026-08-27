@@ -1,0 +1,22 @@
+INICIO
+
+	Declare vetor[10]
+	Declare i <- 0 
+
+	Leia(vetor[0]) 
+
+	maior <- vetor[0]
+
+	Enquanto i < 10 Faça
+
+		se (maior > vetor[i])
+			maior <- vetor[i]
+		fim se 
+
+		i <- i + 1 
+
+	Fim Enquanto
+	
+	escreva("Maior valor:", maior)
+FIM
+	

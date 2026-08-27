@@ -1,0 +1,4 @@
+Faça um programa em C que receba uma frase, calcule e
+mostre a quantidade de vogais e consoantes da frase digitada.
+O programa deverá contar caracteres maiúsculos e minúsculos.
+fgets(frase, n, stdin).

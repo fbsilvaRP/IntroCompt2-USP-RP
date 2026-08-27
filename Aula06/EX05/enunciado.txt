@@ -1,0 +1,10 @@
+=====================================================================
+Escreva um programa que leia do usuário os nomes de dois
+arquivos texto. Crie um terceiro arquivo texto com o conteúdo dos
+dois primeiros juntos (o conteúdo do primeiro seguido do conteúdo
+do segundo).
+Funções úteis:
+int fputc(int c,FILE *fp) escreve um caractere c no arquivo fp;
+int fgetc(FILE *fp) lê um caractere do arquivo fp e o devolve em
+formato de inteiro (retorna EOF em caso de erro).
+=====================================================================

@@ -1,0 +1,17 @@
+O tempo que um determinado avião
+dispensa para percorrer o trecho
+entre duas localidades distintas está
+disponível através da tabela ao
+lado.
+Implemente um algoritmo em C que
+leia a tabela e informe ao usuário o
+tempo necessário para percorrer
+duas cidades por ele fornecidas, até
+o momento em que ele forneça
+qualquer uma das cidades como
+sendo ‘0’.
+
+(A tabela está no material da aula). 
+
+EXTRA: Pensar numa estratégia para reduzir o tamanho da 
+matriz, ocupando menos espaço.

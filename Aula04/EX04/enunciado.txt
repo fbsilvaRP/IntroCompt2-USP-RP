@@ -1,0 +1,6 @@
+=================================================================
+Crie uma função que receba três parâmetros: um vetor, seu tamanho e
+um valor do mesmo tipo do vetor. A função deverá preencher os
+elementos de vetor com esse valor. Não utilize índices para percorrer o
+vetor, apenas aritmética de ponteiros.
+=================================================================

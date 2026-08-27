@@ -1,0 +1,6 @@
+===========================================================================
+Crie uma estrutura capaz de armazenar o nome e a data de nascimento
+de uma pessoa. Agora, escreva um programa que leia os dados de quatro
+pessoas. Calcule e exiba os nomes das pessoas em ordem crescente por
+suas idades (do mais novo para o mais velho).
+==========================================================================

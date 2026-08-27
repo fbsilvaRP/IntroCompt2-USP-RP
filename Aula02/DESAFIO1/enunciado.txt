@@ -1,0 +1,4 @@
+=========================================================
+Implemente um programa em C que receba dois números
+inteiros e calcule o seu máximo divisor comum (MDC).
+=========================================================

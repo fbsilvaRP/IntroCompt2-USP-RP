@@ -1,0 +1,5 @@
+============================================================================
+Crie um programa em C que contenha um array contendo cinco elementos
+inteiros. Leia esse array do teclado e imprima o endereço das
+ posições contendo valores pares.
+============================================================================

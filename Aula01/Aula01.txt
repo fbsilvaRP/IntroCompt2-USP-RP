@@ -1,0 +1,22 @@
+Anotações da primeira aula - 03 de Agosto de 2026
+
+- TODAS AS AULAS NA MESMA SALA (LABORATÓRIO 600); 
+- Por que estudar IC2? 
+- Análise de Complexidade: Quantos dados um algoritmo é capaz de processar? Como projetar um algoritmo de forma eficiente?
+- Algoritmo de busca - o que é? 
+- Algoritmo de ordenação - o que é? 
+
+P1: 28/set
+-  Vetores, ponteiros, funções, estruturas e arquivos em C; 
+- Complexidade de algoritmos; 
+- Algoritmos recursivos; 
+- Algoritmos de busca. 
+
+P2: 07/dez 
+- Algoritmos de ordenação; 
+- Tabelas HASH; 
+- Outros paradigmas de projeto de algoritmos; 
+- Problemas NP-Completos. 
+
+
+
